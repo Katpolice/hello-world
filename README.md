@@ -1,2 +1,2 @@
 # hello-world
-The beginning of a coding adventure 
+The beginning of a coding adventure.
