@@ -29,3 +29,13 @@ April/3/20 - Well alot of things happened since my last update. A three week lon
 April/4/20 - Today I learned Python with a course called Automate the Boring Stuff with Python Programming which I got for free on Udemy. I reviewed the basics and got right into flow control. (Eg. charts, if, else, elif statements, while/for loops) It was very interesting. That's all for today, Katpolice (Gilbert) signing off. 
 
 April/5/20 - Today I learned about how to use and create functions in a global and local environment. Likewise, with handling errors with try/except statements. That's all for today, Katpolice (Gilbert) signing off. 
+
+May/22-28/20 - I have decided to mess around with Minecraft's Nether Update beta on bedrock and I found some interesting bugs being a floating and sinking wither.
+
+Floating wither (https://youtu.be/OPqhnoF-nJk) - I spawned 5 withers at the same time and one acted normally while the other 4 just floated upwards endlessly. I suspect that it has something to do with the spawn damage created when a (or 5) withers are spawned. 
+
+Sinking wither (https://youtu.be/lqHZ9PnIfJc\) - I spawned a wither in the end and I was stuck with it in the end platform being underground end stone. So, I tapped the wither forcing it to show a explosion until it broke free at the edge of the island. It moved around for a bit before sinking to the void and later dying. I think it has something to do with the wither not having something to attack in sight causing it to gitch and sink.
+
+May/28/20 - Today I learned about try and except statements, creating a "Guess the Number" program, Lists and using loops with lists, multiple assignments and augmented operators. I'm also 25% completed of the course on Udemy so thats neat. That's all for today, Katpolice (Gilbert) signing off. 
+
+
