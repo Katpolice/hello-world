@@ -38,4 +38,5 @@ Sinking wither (https://youtu.be/lqHZ9PnIfJc\) - I spawned a wither in the end a
 
 May/28/20 - Today I learned about try and except statements, creating a "Guess the Number" program, Lists and using loops with lists, multiple assignments and augmented operators. I'm also 25% completed of the course on Udemy so thats neat. That's all for today, Katpolice (Gilbert) signing off. 
 
+May/29/20 - Today I learned about list methods and similarities between lists and stirngs. My favorites being variable.sort(key-str.lower), the ASCIIbetical order and variable.deepcopy() That's all for today, Katpolice (Gilbert) signing off. 
 
