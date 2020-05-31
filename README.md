@@ -2,7 +2,7 @@
 The beginning of a coding adventure. It contains a journal of my progress. 
 My name is Katpolice (Gilbert) and I'm offically starting my grind on becoming a developer today. 
 I do have some past experience with programming like Scratch, Ev3 basic, RobotC and a bit of Python.
-However, beyond that exposure and trial and error from years of experience with Robotics, I havn't formally taken any programming classes/courses. So as of today (July/2/19) I will begin my formal coding jounery with websites like Github, EdX, LeetCode, Khan Academy and Lynda.
+However, beyond that exposure and trial and error from years of experience with Robotics, I havn't formally taken any programming classes/courses. So as of today (July/2/19) I will begin my formal coding jounery with websites like Github, EdX, LeetCode, Khan Academy and Coursea. I have used resources like Lynda in the past. 
 Thank you for listening to my Ted talk. 
 
 --------------------------------------------------------------
@@ -39,4 +39,6 @@ Sinking wither (https://youtu.be/lqHZ9PnIfJc\) - I spawned a wither in the end a
 May/28/20 - Today I learned about try and except statements, creating a "Guess the Number" program, Lists and using loops with lists, multiple assignments and augmented operators. I'm also 25% completed of the course on Udemy so thats neat. That's all for today, Katpolice (Gilbert) signing off. 
 
 May/29/20 - Today I learned about list methods and similarities between lists and stirngs. My favorites being variable.sort(key-str.lower), the ASCIIbetical order and variable.deepcopy() That's all for today, Katpolice (Gilbert) signing off. 
+
+May/30/20 - Today I learned about Dictionaries, data types and data strutures. I have also created a program that displays the number of each characters of what you paste. Likewise, it displays it with pprint.pprint (pretty print) as in a horziontal and more readable format rather than one really long string. That's all for today, Katpolice (Gilbert) signing off. 
 
