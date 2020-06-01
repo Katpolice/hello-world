@@ -44,10 +44,15 @@ May/30/20 - Today I learned about Dictionaries, data types and data strutures. I
 May/31/20 - Today I learned about more about strings in particular about advanced string syntax, string methods and string formatting. Such as...
 
 \n for creating more readable code with the print() function
+
 variable.upper() to change the variable is in all caps
+
 variable.lower() to change the variable is in all lowercase
+
 variable.iupper() to check if the variable is in uppercase
+
 variable.islower() to check if the variable is in lowercase
+
 and others like .alpha(), .alnum(), .isdecimal(), isspace() & .istitle() which check if it contained said object in a string. 
 
 Eg. 'hellomyfriend291'.isalpha() would display False because the string contains both letters and numbers while it's only checking for letters NOT numbers.
