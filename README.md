@@ -78,3 +78,11 @@ Eg. 'SpamSpamSpamBaconEggSpam'.strip('ampS')
 Displays  'BaconEgg'
 
 That's all for today, Katpolice (Gilbert) signing off. 
+
+June/01/20 - Today I started with making my Raspberry Pi 1 B (which I got for free) functional. I found a brand new 16gb SanDisk Ultra SDHC card and formatted it with Raspberry Pi Imager and installed the newest verison of OS and copied a zip file of Minecraft Pi. Next, I found an old phone charger as the power source and a new HDMI cable. I inserted everything correctly and firmly into the Pi and plug it into a tv and a keyboard and mouse. My first problem was the charger was insuffient as it was a 5v 0.7amp compared to the 5v 1amp needed so I found a new charger. It worked! But everything is reallllly slow with 512mb of ram. Then, I decompressed the Minecraft Pi zip file and tried opening stackx and sadly it wouldn't work with a bunch of google searching and stackflow. Nonetheless, I have a (slow) computer now to do whatever and I'm planning to create a Minecraft Pi bot with python that automatically places blocks or builds structures. 
+
+I decicded to try out the June Leetcode Challenge as my first ever experience on Leetcode. Yeah, that didn't go too well but I did learn alot. The problem was a Invert Binary Tree and sadly after an hour with Python and reviewing other sources I couldn't get it to work. :/ I kept getting "Line 17: SyntaxError: invalid syntax" which caused the rest of my program to not work. However, there were 500,898 accepted and 782,607 submissions so it was truly a learning experience being my first ever taste with a Invert Binary Tree.
+
+On Udemy, I learned about launching python programs from outside IDLE with the window key + R. I started learning about the basics of regular expressions and I'm starting to get the hang of it. However, I keep getting the error "AttributeError: 'NoneType' object has no attribute 'groups'" which I'm currently looking into. 
+
+That's all for today, Katpolice (Gilbert) signing off. 
