@@ -11,6 +11,7 @@ June/02/20 - Today on Udemy, I learned about regex groups and the pipe character
 I tried out the second challange of the June Leetcode Challenge and I completed it!!! The problem was "Delete Node in a Linked List" so I peudeocoded "Why don't I just skip the bad Node?" Well, I had the right idea but had troubles coding it. Eventually I ended up with the code below which got accepted. 
 
 node.val = node.next.val
+
 node.next = node.next.next
 
 That's all for today, Katpolice (Gilbert) signing off.  
