@@ -6,6 +6,14 @@ However, beyond that exposure and trial and error from years of experience with 
 Thank you for listening to my Ted talk. 
 
 --------------------------------------------------------------
+June/02/20 - Today on Udemy, I learned about regex groups and the pipe character. It's very handy when your looking for specific values in a string. I looked into repetition in regex patterns and Greedy/Nongreedy matching which by default is greedy. Lastly, regex character classes and the findall() method taught me about handy shorthand classes like \d, \w, \s and to find the opposite have it in uppercase so \D. \W and \S.
+
+I tried out the second challange of the June Leetcode Challenge and I completed it!!! The problem was "Delete Node in a Linked List" so I peudeocoded "Why don't I just skip the bad Node?" Well, I had the right idea but had troubles coding it. Eventually I ended up with the code below which got accepted. 
+
+node.val = node.next.val
+node.next = node.next.next
+
+That's all for today, Katpolice (Gilbert) signing off.  
 
 June/01/20 - Today I started with making my Raspberry Pi 1 B (which I got for free) functional. I found a brand new 16gb SanDisk Ultra SDHC card and formatted it with Raspberry Pi Imager and installed the newest verison of OS and copied a zip file of Minecraft Pi. Next, I found an old phone charger as the power source and a new HDMI cable. I inserted everything correctly and firmly into the Pi and plug it into a tv and a keyboard and mouse. My first problem was the charger was insuffient as it was a 5v 0.7amp compared to the 5v 1amp needed so I found a new charger. It worked! But everything is reallllly slow with 512mb of ram. Then, I decompressed the Minecraft Pi zip file and tried opening stackx and sadly it wouldn't work with a bunch of google searching and stackflow. Nonetheless, I have a (slow) computer now to do whatever and I'm planning to create a Minecraft Pi bot with python that automatically places blocks or builds structures. 
 
