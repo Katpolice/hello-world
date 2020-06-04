@@ -6,6 +6,10 @@ However, beyond that exposure and trial and error from years of experience with 
 Thank you for listening to my Ted talk. 
 
 --------------------------------------------------------------
+June/03/20 - Today on Udemy, I learned about Regex dot-star (.*), caret/dollar characters (^ and $), regex sub() method and verbose mode. 
+
+I tried out the second challange of the June Leetcode Challenge and I finished it. Ther problem was "Two City Scheduling" so as always I started peudeo coding it. After many attempts, I gave up and searched up a couple of things that helped with my solution. That's all for today, Katpolice (Gilbert) signing off. 
+
 June/02/20 - Today on Udemy, I learned about regex groups and the pipe character. It's very handy when your looking for specific values in a string. I looked into repetition in regex patterns and Greedy/Nongreedy matching which by default is greedy. Lastly, regex character classes and the findall() method taught me about handy shorthand classes like \d, \w, \s and to find the opposite have it in uppercase so \D. \W and \S.
 
 I tried out the second challange of the June Leetcode Challenge and I completed it!!! The problem was "Delete Node in a Linked List" so I peudeocoded "Why don't I just skip the bad Node?" Well, I had the right idea but had troubles coding it. Eventually I ended up with the code below which got accepted. 
