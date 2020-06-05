@@ -6,6 +6,8 @@ However, beyond that exposure and trial and error from years of experience with 
 Thank you for listening to my Ted talk. 
 
 --------------------------------------------------------------
+June/04/20 - Today on Udemy, I created a phone and email scraper based on what you have on your clipboard. It'll be very handy whenever I need to mass copy and paste phone numbers or emails for whatever reason. I learned about filenames and absolute/relative file paths, reading and writing plaintext files and copying and moving files and folders. All within the python shell which was pretty neat. Normally, I would attempt a Leetcode problem but I have decided the jump was a bit too much for me as of right now so I decided to check a website called Interview Cake and a book called Cracking the Coding Interview. One day, I hope to sucessful obtain a junior dev or intern postition at a company or startup in the future. That's all for today, Katpolice (Gilbert) signing off. 
+
 June/03/20 - Today on Udemy, I learned about Regex dot-star (.*), caret/dollar characters (^ and $), regex sub() method and verbose mode. 
 
 I tried out the second challange of the June Leetcode Challenge and I finished it. Ther problem was "Two City Scheduling" so as always I started peudeo coding it. After many attempts, I gave up and searched up a couple of things that helped with my solution. That's all for today, Katpolice (Gilbert) signing off. 
